@@ -1,11 +1,11 @@
-# License
+E-Commerce Flash Sale System (Personal Project)
 
-Copyright © 2013-2020 [九章算法](https://jiuzhang.com) 浙ICP备19045946号-1
+A Java/SpringBoot based web application, simulates a real e-commence website with large traffics
 
-商务合作：[fukesu@jiuzhang.com](mailto:fukesu@jiuzhang.com)
+1. Sole owner of the project, fully responsible for the design & development for all back-end components, including scenario analysis, storage estimation, data storage configuration, performance enhancement, etc
 
-加入我们：[jiuzhang.com](https://jiuzhang.com/joinus)
-
-了解更多：[微博/九章算法](https://weibo.com/ninechapter) [知乎/九章算法](https://www.zhihu.com/people/crackinterview)
-
-友情链接：[领扣 LintCode](https://www.lintcode.com/)
+2. Leveraging Redis, RocketMQ and Sentinel to handle the high concurrency situation
+   
+3. Utilize JMeter for stress testing, and achieve the result of handling 100k+ QPS
+   
+4. Java, MySQL, Mybatis, Springboot, Spring MVC, Redis, RocketMQ, Snowflake ID, Sentinel, JMeter
